@@ -1,6 +1,6 @@
 🌐 Available in [English](./README.md) | Disponible en [Español](./README.es.md)
 
-# 🌿 Sendero Sereno (Unity VR) | digital forest bathing
+# 🌿 Sendero Sereno (Unity VR) | baños de bosque digitales
 
 ### 🧾 Descripción
 **Experiencia inmersiva en realidad virtual centrada en la relajación y el “baño de bosque” digital.**  
