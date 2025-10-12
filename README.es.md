@@ -41,10 +41,9 @@ Se siguió un proceso de **validación por fases**, basando las decisiones en la
 
 ### 🔒 Nota sobre disponibilidad
 Este repositorio contiene una **versión de estudio / case study** del proyecto.  
-Los recursos originales y el código completo no se distribuyen públicamente.  
+Los recursos originales y el código completo no se distribuyen públicamente, ya que la licencia pertenece al gobierno de navarra.  
 Este repositorio incluye:
 - Descripción del proyecto y mis contribuciones  
 - Capturas de pantalla y vídeo de demostración
-  
 - Fragmentos de documentación técnica y de diseño  
 
