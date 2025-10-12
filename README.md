@@ -41,7 +41,7 @@ The project followed **phased validation**, with design documentation and iterat
 
 ### 🔒 Note on Availability
 This repository contains a **case study version** of the project.  
-Original assets and full source files are not publicly distributed.  
+Original assets and full source files are not publicly distributed, the license for this project is property of gobierno de navarra.  
 Included materials:
 - Project overview and personal contributions  
 - Screenshots and demo video  
