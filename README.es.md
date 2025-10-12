@@ -1,4 +1,4 @@
-## 🇪🇸 Español
+# 🌿 Sendero Sereno (Unity VR) | digital forest bathing
 
 ### 🧾 Descripción
 **Experiencia inmersiva en realidad virtual centrada en la relajación y el “baño de bosque” digital.**  
