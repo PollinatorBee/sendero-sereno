@@ -1,4 +1,4 @@
-🌐 Available in [English](./README.md) | Disponible en [Español](./README.es.md)
+🌐 Available in [English](./README.md)
 
 # 🌿 Sendero Sereno (Unity VR) | baños de bosque digitales
 
@@ -34,6 +34,9 @@ El proyecto se centra en la **exploración tranquila**, el **diseño sonoro espa
 ### 🎥 Video de demostración
 📹 [Ver walkthrough en YouTube](https://youtu.be/oRMXH5Szlqo)  
 *(Demostración de la interacción, el ambiente y el diseño sonoro.)*
+
+## 📄 Documentación
+- [Game Design Document](/Sendero_Sereno_GDD.pdf)
 
 ### 👥 Colaboración
 Proyecto desarrollado en equipo de tres integrantes, con trabajo compartido en programación, diseño de niveles y testing.  
