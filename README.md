@@ -36,7 +36,7 @@ The project emphasizes **calm exploration, spatial sound design, and environment
 *(Walkthrough showing interaction, ambient design, and sound immersion.)*
 
 ## 📄 Documentation (in spanish)
-- [Game Design Document](https://pollinatorbee.github.io/sendero-sereno/Sendero_Sereno_GDD.pdf)
+- [Game Design Document](/Sendero_Sereno_GDD.pdf)
 
 ### 👥 Team Collaboration
 Developed collaboratively by a team of three students, with shared responsibilities for programming, level design, and testing.  
